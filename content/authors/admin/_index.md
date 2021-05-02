@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Joschka Schwarz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant & Doctoral Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Hamburg University of Technology (TUHH)
+  url: https://www.startupengineer.io/authors/schwarz/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
