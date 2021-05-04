@@ -24,10 +24,38 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 50%
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: 10%
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 10%
+  icon: adobe-photoshop
+  icon_pack: custom
+  name: Photoshop
+- description: 10%
+  icon: adobe-illustrator
+  icon_pack: custom
+  name: Illustrator
+- description: 10%
+  icon: obs
+  icon_pack: custom
+  name: OBS
+- description: 10%
+  icon: database
+  icon_pack: fas
+  name: SQL
+- description: 20%
+  icon: js
+  icon_pack: fab
+  name: Javascript
+- description: 20%
+  icon: davinci-resolve
+  icon_pack: custom
+  name: Davinci Resolve
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
