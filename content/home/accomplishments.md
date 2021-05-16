@@ -51,7 +51,7 @@ item:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: BusinessScience
+  organization: business-science
   organization_url: https://www.business-science.io
   title: 'DS4B 101-R: Business Analysis With R'
   url: ""
