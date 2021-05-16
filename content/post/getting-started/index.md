@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Awesome R - A curated list of awesome R packages and tools.
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-05-16T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-05-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,34 +23,74 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Joschka Schwarz**](jschwarz.netlify.app)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Machine Learning
+- R Packages
 
 categories:
 - Demo
-- 教程
+- Machine Learning
 ---
 
 ## Interesting R packages
 
-<a href="https://magrittr.tidyverse.org" target="_blank">
+### Targets
+
+<a href="https://docs.ropensci.org/targets/" target="_blank">
 <img src="/img/logos/logo_targets.png" align="right" style="width:200px; height:200px; padding:0px 0px 10px 10px; margin-top:0px; margin-bottom:0px;"/>
 </a>
 
+The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+### Another package
+
+<style>
+.logo_column{
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+logo_.row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<figure>
+<div class="logo_row">
+  <div class="logo_column">
+    <a href="https://tidymodels.github.io/rsample/" target="_blank">
+      <img src="/img/logos/logo_rsample.svg" alt="CAPTION" style="width:100%">
+    </a>
+  </div>
+  <div class="logo_column">
+    <a href="https://parsnip.tidymodels.org" target="_blank">
+      <img src="/img/logos/logo_parsnip.svg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="logo_column">
+    <a href="https://tidymodels.github.io/recipes/" target="_blank">
+      <img src="/img/logos/logo_recipes.svg" alt="Forest" style="width:100%">
+    </a>
+  </div>
+  <div class="logo_column">
+    <a href="https://tidymodels.github.io/workflows/" target="_blank">
+      <img src="/img/logos/logo_workflows.svg" alt="Mountains" style="width:100%">
+    </a>
+  </div>
+</div>
+<figcaption>Click on the images to get more information about the packages and their functions.</figcaption>
+</figure>
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
@@ -96,15 +136,3 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 - **Privacy Pack** - Assists with GDPR
 - **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
 - **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
