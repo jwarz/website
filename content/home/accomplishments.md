@@ -50,11 +50,28 @@ item:
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
-  description: ""
+  description: "A 7-week curriculum that methodically teaches the foundations of data science using R & tidyverse.
+                <ul>
+                  <li><b>Data Import:</b> readr & odbc</li>
+                  <li><b>Data Cleaning & Wrangling:</b> dplyr & tidyr</li>
+                  <li><b>Time Series, Text, & Categorical Data:</b> lubridate, stringr, & forcats</li>
+                  <li><b>Visualization:</b> ggplot2</li>
+                  <li><b>Functions & Iteration:</b> purrr</li>
+                  <li><b>Modeling & Machine Learning:</b> parnsip (xgboost, glmnet, kernlab, broom, & more)</li>
+                  <li><b>Business Reporting:</b> rmarkdown</li>
+                </ul>"
   organization: business-science
   organization_url: https://www.business-science.io
   title: 'DS4B 101-R: Business Analysis With R'
-  url: ""
+  url: "https://university.business-science.io/p/ds4b-101-r-business-analysis-r"
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: "A 10-week curriculum that incorporates R & H2O AutoML to use machine learning within a business problem solving framework called the BSPF"
+  organization: business-science
+  organization_url: https://www.business-science.io
+  title: 'DS4B 201-R: Data Science For Business With R'
+  url: "https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover"
 
 design:
   columns: '2' 
