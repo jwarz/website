@@ -138,7 +138,7 @@ logo_.row::after{
 ## Packages to do Other
 
 - Discounted Cash Flow (DCF): PDF Scraping (tabulizer), Web Scraping (rvest), Cleaning Excel Data (tidyxl), Inexact (Fuzzy) Joining (fuzzyjoin)
-- Excel to R, Pivot, Vlookup etc.
+- Excel to R, Pivot, Vlookup etc. (using tidyquant?!)
 -
 
 ## LL to do
